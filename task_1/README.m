@@ -1,1 +1,1 @@
-This project uses machine learning to classify iris flowers into three species: Setosa, Versicolor, and Virginica. It uses flower measurements like sepal and petal size and applies a model using Scikit-learn.
+
